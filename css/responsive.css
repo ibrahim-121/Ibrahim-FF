@@ -1,0 +1,29 @@
+@media (max-width: 991.98px) {
+    .container{
+      max-width: 100%;
+    }
+    #header-section h1{
+        padding-top: 120px;
+    }
+   }
+
+@media (max-width: 767.98px) {
+
+ }
+
+@media (max-width: 575.98px) {
+    #header-section h1{
+        padding-top: 60px;
+        font-size: 22px;
+    }
+    #header-section p {
+        font-size: 18px;
+    }
+    #information-section {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    #get-section p {
+        font-size: 16px;
+    }
+}
